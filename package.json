@@ -1,0 +1,11 @@
+{
+  "name": "imagify",
+  "version": "1.0.0",
+  "description": "Converts user text input to image using Ai.\r AI image generators have become powerful tools, enabling users to create complex and highly detailed images from textual descriptions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
