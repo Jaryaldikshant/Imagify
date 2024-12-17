@@ -53,4 +53,4 @@ jobs:
           app-name: 'Imagify'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F371A2967D52426CAACC22BD1CC40393 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_71512BD5BF3844E9A3716190AC88C1AD }}
